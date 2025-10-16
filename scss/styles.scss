@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+$presentation-title-slide-text-align: left;
+
+$callout-color-note: #014691;
+$callout-color-tip: #1d8f01;
+$callout-color-caution: #8f0170;
+$callout-color-warning: #8f5a01;
+$callout-color-important: #910c01;
+
+/*-- scss:rules --*/
+
+/* Additional Google Fonts ----- */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Body ----- */
+
+body {
+  color: $brand-black;
+}
+
+/* Root ----- */
+
+:root {
+  --r-heading-margin: 0 0 25px 0;
+  --r-selection-background-color: #014691;
+  --r-selection-color: #FFFFFF;
+}
+
+/* Headings ----- */
+
+h2 {
+  margin-bottom: 2rem;
+}
+
+
+h2 {
+  margin-bottom: 2rem;
+}
+
+/* Colors ----- */
+
+.brand-blue {
+  color: $brand-blue;
+}
+
+.brand-gray {
+  color: $brand-gray;
+}
+
+.brand-black {
+  color: $brand-black;
+}
+
+
+/* Controls ----- */
+
+.reveal .controls button {
+  color: $brand-blue;
+}
+
+/* Others ----- */
+
+.bold {
+  font-weight: bold;
+}

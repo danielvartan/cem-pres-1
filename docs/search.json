@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "AcessoSANData Plan",
+    "section": "Hi there! 👋",
+    "text": "Hi there! 👋\n\n\nIn this presentation, I will introduce key concepts in data science and propose ideas for the AcessoSAN project.\n\n\n\n\n\n\n\nHere are the main topics:\n\n\nIntroduction\nThe Open Science Framework\nGit & GitHub\nQuarto & Pipelines\nProject Management\nConclusion\n\n\n\n\n(Artwork by Allison Horst)"
+  },
+  {
+    "objectID": "index.html#why-this-is-important",
+    "href": "index.html#why-this-is-important",
+    "title": "AcessoSANData Plan",
+    "section": "Why This is Important?",
+    "text": "Why This is Important?"
+  },
+  {
+    "objectID": "index.html#the-open-science-framework",
+    "href": "index.html#the-open-science-framework",
+    "title": "AcessoSANData Plan",
+    "section": "The Open Science Framework",
+    "text": "The Open Science Framework\nOSF is a free and open source project management tool, created by the Center for Open Science, that supports researchers throughout their entire project lifecycle.\n\n\n\n\n\n(Reproduced from the Center for Open Science)"
+  },
+  {
+    "objectID": "index.html#git-github",
+    "href": "index.html#git-github",
+    "title": "AcessoSANData Plan",
+    "section": "Git & GitHub",
+    "text": "Git & GitHub\nGit is a version control system created by Linus Torvalds in 2005 while building the Linux kernel. It allows multiple people to work on a project simultaneously without interfering with each other’s changes."
+  },
+  {
+    "objectID": "index.html#open-source-program.-lang.",
+    "href": "index.html#open-source-program.-lang.",
+    "title": "AcessoSANData Plan",
+    "section": "Open-Source Program. Lang.",
+    "text": "Open-Source Program. Lang.\n\n\nHigh-level programming languages.\nR was started by professors Ross Ihaka and Robert Gentleman as a programming language to teach introductory statistics at the University of Auckland. It was release in 1993.\nPython was created by Guido van Rossum and released in 1991.\nstatistical computing and data visualization versus general-purpose.\nScience-driven versus industry-driven."
+  },
+  {
+    "objectID": "index.html#lets-be-rational-about-this",
+    "href": "index.html#lets-be-rational-about-this",
+    "title": "AcessoSANData Plan",
+    "section": "Let’s be rational about this…",
+    "text": "Let’s be rational about this…"
+  },
+  {
+    "objectID": "index.html#quarto-pipelines",
+    "href": "index.html#quarto-pipelines",
+    "title": "AcessoSANData Plan",
+    "section": "Quarto & Pipelines",
+    "text": "Quarto & Pipelines\n\n\n\n\n\n(Artwork by Allison Horst)"
+  },
+  {
+    "objectID": "index.html#data-science-workflow",
+    "href": "index.html#data-science-workflow",
+    "title": "AcessoSANData Plan",
+    "section": "Data Science Workflow",
+    "text": "Data Science Workflow\n\n\nData science is the study of the generalizable extraction of knowledge from data (Dhar, 2023).\n\nFor some, data science is just statistics (Broman, 2013) (hype statistics). For others, it’s a new interdisciplinary field that synthesizes statistics, informatics, computing, communication, management, and sociology (Cao, 2017).\n\n\n\n\n\n\n(Reproduced from Wickham et al. (2023))"
+  },
+  {
+    "objectID": "index.html#kanban",
+    "href": "index.html#kanban",
+    "title": "AcessoSANData Plan",
+    "section": "Kanban",
+    "text": "Kanban"
+  },
+  {
+    "objectID": "index.html#github-flow",
+    "href": "index.html#github-flow",
+    "title": "AcessoSANData Plan",
+    "section": "GitHub Flow",
+    "text": "GitHub Flow\nAn adaptation of Git Flow, created by Vincent Driessen in 2010.\n\n\n\n\n\n(Reproduced from Azure)"
+  },
+  {
+    "objectID": "index.html#closing-remarks",
+    "href": "index.html#closing-remarks",
+    "title": "AcessoSANData Plan",
+    "section": "Closing Remarks",
+    "text": "Closing Remarks\n \nThis presentation was created with the Quarto Publishing System. The code and materials are available on GitHub.\n\n\n\n\n\n(Artwork by Allison Horst)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "AcessoSANData Plan",
+    "section": "References",
+    "text": "References\n\nIn accordance with the American Psychological Association (APA) Style, 7th edition.\n\n\n\nBroman, K. (2013, April 5). Data science is statistics. The stupidest thing... https://kbroman.wordpress.com/2013/04/05/data-science-is-statistics/\n\n\nCao, L. (2017). Data science: A comprehensive overview. ACM Computing Surveys, 50(3), 43. https://doi.org/10.1145/3076253\n\n\nDhar, V. (2023). Data science and prediction. Communications of the ACM, 56(12), 64–73. https://doi.org/10.1145/2500499\n\n\nWickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science: Import, tidy, transform, visualize, and model data (2nd ed.). O’Reilly Media. https://r4ds.hadley.nz"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "AcessoSANData Plan",
+    "section": "Thank you!",
+    "text": "Thank you!\n\n\n\n\n\n(Artwork by Allison Horst)"
+  }
+]

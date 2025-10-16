@@ -1,0 +1,174 @@
+## Hi there! 👋 {.smaller}
+
+```{r}
+#| label: setup
+#| include: false
+
+library(here)
+
+source(here("R", "_setup.R"))
+```
+
+::::: {.columns}
+:::: {.column style="width: 47.5%;"}
+In this presentation, I will introduce key concepts in data science and propose ideas for the AcessoSAN project.
+
+![](images/allison-horst-figure-8.png){fig-align="center" style="width: 100%; padding-top: 80px;"}
+::::
+:::: {.column style="width: 5%;"}
+::::
+:::: {.column style="width: 47.5%;"}
+Here are the main topics:
+
+::: {style="font-size: 0.85em; padding-top: 15px;"}
+1. [**Introduction**]{.brand-blue}
+1. [**The Open Science Framework**]{.brand-blue}
+1. [**Git & GitHub**]{.brand-blue}
+1. [**Quarto & Pipelines**]{.brand-blue}
+1. [**Project Management**]{.brand-blue}
+1. [**Conclusion**]{.brand-blue}
+:::
+::::
+:::::
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
+
+## Why This is Important?
+
+![](images/meme-your-plan-reality.png){fig-align="center" style="padding-top: 0px;"}
+
+## The Open Science Framework {.nostretch .smaller}
+
+[OSF](https://osf.io) is a __free__ and __open source__ project management tool, created by the [Center for Open Science ](https://www.cos.io/), that supports researchers throughout their entire project lifecycle.
+
+[![](images/cos-2023-figure-3.png){fig-align="center" width=40% style="padding-top: 10px;"}](https://doi.org/10.17605/OSF.IO/ZE6WT)
+
+::: footer
+(Reproduced from the [Center for Open Science](https://www.youtube.com/watch?v=X07mBq2tnMg))
+:::
+
+## Git & GitHub {.smaller}
+
+Git is a version control system created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 while building the [Linux](https://www.linux.org/) kernel. It allows multiple people to work on a project simultaneously without interfering with each other's changes.
+
+:::: {.columns}
+::: {.column width="47%"}
+[![](images/version-control.png){fig-align="center" width=60% style="padding-top: 50px;"}](https://git-scm.com/)
+:::
+::: {.column width="6%"}
+:::
+::: {.column width="47%"}
+[![](images/github-logo.svg){fig-align="center" width=60% style="padding-top: 150px;"}](https://github.com/)
+:::
+::::
+
+## Open-Source Program. Lang.
+
+![](images/calltutors-figure-1.png){.r-stretch fig-align="center"}
+
+::: {.notes}
+:::
+
+## Let's be rational about this...
+
+:::: {.columns}
+::: {.column width="20%"}
+![](images/meme-r-1.gif){fig-align="center" style="padding-top: 50px;"}
+
+![](images/meme-r-1.gif){fig-align="center" style="padding-top: 0px;"}
+:::
+::: {.column width="60%"}
+![](images/meme-r-3.png){fig-align="center" style="padding-top: 30px;"}
+:::
+::: {.column width="20%"}
+![](images/meme-r-2.gif){fig-align="center" style="padding-top: 50px;"}
+
+![](images/meme-r-2.gif){fig-align="center" style="padding-top: 0px;"}
+:::
+::::
+
+## Quarto & Pipelines {.smaller}
+
+[![](images/allison-horst-figure-49.png){fig-align="center" style="width: 100%; padding-top: 75px;"}](https://sustentarea.github.io/sisvan-nutritional-status/)
+
+::: footer
+(Artwork by [Allison Horst](https://allisonhorst.com/horst-hill-collaborations))
+:::
+
+## Data Science Workflow {.nostretch .smaller}
+
+::: {style="font-size: 0.8em; padding-bottom: 0px;"}
+> Data science is the study of the generalizable extraction of knowledge from data [@dhar2023].
+
+For some, data science is just statistics [@broman2013] (_hype statistics_). For others, it's a new interdisciplinary field that synthesizes statistics, informatics, computing, communication, management, and sociology [@cao2017].
+:::
+
+![](images/wickham-et-al-2023-figure-1.png){fig-align="center" style="width: 85%; padding-top: 10px;"}
+
+::: footer
+(Reproduced from @wickham2023e)
+:::
+
+::: {.notes}
+:::
+
+## Kanban {.smaller visibility="uncounted"}
+
+[![](images/simple-kanban-board.png){fig-align="center" style="width: 65%; padding-top: 15px;"}](https://github.com/orgs/open-life-science/projects/15/views/1?layout=board)
+
+## GitHub Flow {.smaller visibility="uncounted"}
+
+An adaptation of [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/), created by Vincent Driessen in 2010.
+
+[![](images/github-flow-1.png){fig-align="center" style="width: 100%; padding-top: 50px;"}](https://docs.github.com/en/get-started/using-github/github-flow)
+
+::: footer
+(Reproduced from [Azure](https://azure.microsoft.com))
+:::
+
+::: {.notes}
+:::
+
+## Closing Remarks {.smaller}
+
+[![License: GPLv3](https://img.shields.io/badge/license-GPLv3-bd0000.svg){style="width: 12%; padding-top: 0px;"}](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey.svg){style="width: 19%; padding-bottom: 1px;"}](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This presentation was created with the [Quarto](https://quarto.org/) Publishing System. The code and materials are available on [GitHub](https://github.com/danielvartan/cem-pres-1).
+
+![](images/allison-horst-figure-1.png){fig-align="center" style="width: 80%; padding-top: 50px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
+
+## References {.smaller}
+
+::: {style="font-size: 0.75em;"}
+In accordance with the [American Psychological Association (APA) Style](https://apastyle.apa.org/), 7th edition.
+:::
+
+::: {#refs style="font-size: 0.75em;"}
+:::
+
+::: {.notes}
+:::
+
+## Thank you! {.nostretch}
+
+![](images/allison-horst-figure-3.png){fig-align="center" style="width: 70%; padding-top: 25px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
